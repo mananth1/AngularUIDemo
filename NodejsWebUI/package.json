@@ -1,0 +1,9 @@
+{
+  "name": "nodejs-web-ui",
+  "version": "0.0.0",
+  "description": "NodejsWebUI",
+  "main": "server.js",
+  "author": {
+    "name": "AMariappan"
+  }
+}
